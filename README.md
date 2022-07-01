@@ -1,1 +1,1 @@
-# NotesMaster
+# NotesApp
